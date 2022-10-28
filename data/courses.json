@@ -46,10 +46,10 @@
         "id": "2",
         "price": 89.99,
         "category_id": "03",
-        "title": "JS Coding PRo",
+        "title": "JS Coding Pro",
         "details": "JavaScript is a programming language that adds interactivity to your website. In this course you will learn about Intermediate level JavaScript (object, array, function)",
         "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqYfbaJ3eCkft5cB1BjSSN8pwLqODTGLTqOXQyIUhvWQSVSPgyG6bI5iH4S3mCVPdIV7w&usqp=CAU",
-        "total_view": 488,
+        "total_view": 188,
         "author": {
             "name": "Jimmy Dane",
             "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
@@ -82,6 +82,178 @@
                 "title": "JavaScript Statement",
                 "imgUrl": "https://images.velog.io/images/azurestefan/post/683ee66b-2287-4ceb-837d-e2c9226252be/JavaScript.png",
                 "videoUrl": "https://www.youtube.com/watch?v=vXHefJiJM24"
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "price": 69.99,
+        "category_id": "04",
+        "title": "JavaScript Mastery Pro",
+        "details": "JavaScript is a programming language that adds interactivity to your website. Showcase your skills with practical development experience and land the coding career of your dreams with JS Mastery Pro. Become a professional developer today.",
+        "image_url": "https://www.filepicker.io/api/file/eotmlK5LRzyLGp5rAvDZ",
+        "total_view": 398,
+        "author": {
+            "name": "Jhankar Mahbub",
+            "img": "https://miro.medium.com/max/2400/1*A8IqmApGUhvmD6A3A1TXBw.png"
+        },
+        "rating": {
+            "number": 5.0,
+            "badge": "Excellent"
+        },
+        "lessons": [
+            {
+                "lesson_id": "sgvfsugtbiuotfst34treiuterhtjhgtr",
+                "lesson_no": 1,
+                "premium": false,
+                "title": "JavaScript & JQuery",
+                "imgUrl": "https://images.velog.io/images/azurestefan/post/683ee66b-2287-4ceb-837d-e2c9226252be/JavaScript.png",
+                "videoUrl": "https://www.youtube.com/watch?v=1TUeH2VqQqY"
+            },
+            {
+                "lesson_id": "yiueyrwiurywoe4534etebereyrowiwyeruewy",
+                "lesson_no": 2,
+                "premium": false,
+                "title": "User Input and Web Design",
+                "imgUrl": "https://images.velog.io/images/azurestefan/post/683ee66b-2287-4ceb-837d-e2c9226252be/JavaScript.png",
+                "videoUrl": "https://www.youtube.com/watch?v=0sVa_adloN4"
+            },
+            {
+                "lesson_id": "9879879879e7rtyerty2312dcreryneryter",
+                "lesson_no": 3,
+                "premium": true,
+                "title": "Jhankar Mahbub Course",
+                "imgUrl": "https://images.velog.io/images/azurestefan/post/683ee66b-2287-4ceb-837d-e2c9226252be/JavaScript.png",
+                "videoUrl": "https://www.youtube.com/watch?v=XQ_0Zacb1_4"
+            },
+            {
+                "lesson_id": "9yerty2312dcreryneryter",
+                "lesson_no": 4,
+                "premium": true,
+                "title": "Programming problem solving",
+                "imgUrl": "https://images.velog.io/images/azurestefan/post/683ee66b-2287-4ceb-837d-e2c9226252be/JavaScript.png",
+                "videoUrl": "https://www.youtube.com/watch?v=cq6Iz4-LSkc"
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "price": 39.99,
+        "category_id": "05",
+        "title": "Dom Doma Dom Dom",
+        "details": "The Document Object Model (DOM) is a programming interface for web documents.  It represents the page so that programs can change the document structure, style, and content. The DOM represents the document as nodes and objects; that way, programming languages can interact with the page.",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfDU5MuR4W4LvC_D728NXANV64tNKRiM55Aw&usqp=CAU",
+        "total_view": 1390,
+        "author": {
+            "name": "Free Code Camp",
+            "img": "https://yt3.ggpht.com/ytc/AMLnZu9UWrGceKWaqm8AF89vuxrEt8MO3E59qOoQ785Lew=s88-c-k-c0x00ffffff-no-rj"
+        },
+        "rating": {
+            "number": 4.0,
+            "badge": "Good"
+        },
+        "lessons": [
+            {
+                "lesson_id": "sgvfsugtbdomdomdomdomdomiuotfst34treiuterhtjhgtr",
+                "lesson_no": 1,
+                "premium": true,
+                "title": "JavaScript DOM Manipulation",
+                "imgUrl": "https://miro.medium.com/max/2400/1*A8IqmApGUhvmD6A3A1TXBw.png",
+                "videoUrl": "https://www.youtube.com/watch?v=5fb2aPlgoys"
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "price": 89.99,
+        "category_id": "06",
+        "title": "Complete React Course Hindi",
+        "details": "React is a declarative, efficient, and flexible JavaScript library for building user interfaces or UI components. It lets you compose complex UIs from small and isolated pieces of code called “components”.",
+        "image_url": "https://s3.ap-southeast-1.amazonaws.com/arrowhitech.com/wp-content/uploads/2021/09/01031030/ReactJS.png",
+        "total_view": 190,
+        "author": {
+            "name": "Code With Harry",
+            "img": "https://yt3.ggpht.com/ytc/AMLnZu8dZQJYCt6Ffcd-pl113huuo_HJ3PpvgkyFk5FkrQ=s88-c-k-c0x00ffffff-no-rj"
+        },
+        "rating": {
+            "number": 4.5,
+            "badge": "Very Good"
+        },
+        "lessons": [
+            {
+                "lesson_id": "sgvfsugtbdomdhttpCodeWithHarryst34treiuterhtjhgtr",
+                "lesson_no": 1,
+                "premium": false,
+                "title": "Introduction to React Js + Installation",
+                "imgUrl": "https://s3.ap-southeast-1.amazonaws.com/arrowhitech.com/wp-content/uploads/2021/09/01031030/ReactJS.png",
+                "videoUrl": "https://www.youtube.com/watch?v=-mJFZp84TIY"
+            },
+            {
+                "lesson_id": "sgvfsugtbdomdhttpCodeWithHarryst34treiuterhgtr",
+                "lesson_no": 2,
+                "premium": false,
+                "title": "Creating our first react app using create-react-app",
+                "imgUrl": "https://s3.ap-southeast-1.amazonaws.com/arrowhitech.com/wp-content/uploads/2021/09/01031030/ReactJS.png",
+                "videoUrl": "https://www.youtube.com/watch?v=hnVOvvbQrwA"
+            },
+            {
+                "lesson_id": "sgvfsugtbdomdhttpCodeWithHarrystreiuterhtjhgtr",
+                "lesson_no": 3,
+                "premium": true,
+                "title": "Understanding Props and PropTypes in React",
+                "imgUrl": "https://s3.ap-southeast-1.amazonaws.com/arrowhitech.com/wp-content/uploads/2021/09/01031030/ReactJS.png",
+                "videoUrl": "https://www.youtube.com/watch?v=kFe-RRaOy48"
+            },
+            {
+                "lesson_id": "sgvfsdomdhttpCodeWithHarryst34treiuterhtjhgtr",
+                "lesson_no": 4,
+                "premium": true,
+                "title": "Understanding State & Handling Events in React",
+                "imgUrl": "https://s3.ap-southeast-1.amazonaws.com/arrowhitech.com/wp-content/uploads/2021/09/01031030/ReactJS.png",
+                "videoUrl": "https://www.youtube.com/watch?v=leBpCqU8wdg"
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "price": 99.99,
+        "category_id": "07",
+        "title": "Node.js Crash Course",
+        "details": "Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices. It is an open source, a cross-platform runtime environment for developing server-side applications.",
+        "image_url": "https://i.ytimg.com/vi/fBNz5xF-Kx4/maxresdefault.jpg",
+        "total_view": 100,
+        "author": {
+            "name": "The Net Ninja",
+            "img": "https://yt3.ggpht.com/ytc/AMLnZu_vx2QaoABpOD1MFk3nvLibUr8EDUv_Z_xyvOAk6A=s88-c-k-c0x00ffffff-no-rj"
+        },
+        "rating": {
+            "number": 3.9,
+            "badge": "Good"
+        },
+        "lessons": [
+            {
+                "lesson_id": "sgvfsugtbdomdhttpnisdnjaaaast34treiuterhtjhgtr",
+                "lesson_no": 1,
+                "premium": false,
+                "title": "Introduction & Setup",
+                "imgUrl": "https://i.ytimg.com/vi/fBNz5xF-Kx4/maxresdefault.jpg",
+                "videoUrl": "https://www.youtube.com/watch?v=zb3Qk8SG5Ms"
+            },
+            {
+                "lesson_id": "sgvfsugtbdomdhttpsdsninjaaaast34treiuterhgtr",
+                "lesson_no": 2,
+                "premium": true,
+                "title": "Clients & Servers",
+                "imgUrl": "https://i.ytimg.com/vi/fBNz5xF-Kx4/maxresdefault.jpg",
+                "videoUrl": "https://www.youtube.com/watch?v=-HPZ1leCV8k"
+            },
+            {
+                "lesson_id": "sgvfsugtbdomdhttpninjaaaastreiuterhtdsdjhgtr",
+                "lesson_no": 3,
+                "premium": true,
+                "title": "Requests & Responses",
+                "imgUrl": "https://i.ytimg.com/vi/fBNz5xF-Kx4/maxresdefault.jpg",
+                "videoUrl": "https://www.youtube.com/watch?v=DQD00NAUPNk"
             }
         ]
     }
