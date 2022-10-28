@@ -1,0 +1,30 @@
+[
+    {
+        "id": "01",
+        "name": "All Courses"
+    },
+    {
+        "id": "02",
+        "name": "JavaScript Beginner"
+    },
+    {
+        "id": "03",
+        "name": "JavaScript Intermediate"
+    },
+    {
+        "id": "04",
+        "name": "JavaScript Expert"
+    },
+    {
+        "id": "05",
+        "name": "JavaScript DOM"
+    },
+    {
+        "id": "06",
+        "name": "React JS"
+    },
+    {
+        "id": "07",
+        "name": "Node JS"
+    }
+]
