@@ -1,0 +1,88 @@
+[
+    {
+        "id": "1",
+        "category_id": "02",
+        "price": 59.99,
+        "title": "Javascript Beginner Introduction",
+        "details": "JavaScript is a programming language that adds interactivity to your website. In this course you will learn about basic JavaScript",
+        "image_url": "https://images.velog.io/images/azurestefan/post/683ee66b-2287-4ceb-837d-e2c9226252be/JavaScript.png",
+        "total_view": 488,
+        "author": {
+            "name": "Learn with Sumit",
+            "img": "https://yt3.ggpht.com/D9X91qRuvaOSs2L5ai9ydYsfuW8sUYgeMs7gsCuGkbElWYtRmraazV6U9a277kGJ_MHEOTjdtcI=s88-c-k-c0x00ffffff-no-rj"
+        },
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "lessons": [
+            {
+                "lesson_id": "bs65t9t54564e4gd6bg146edy",
+                "lesson_no": 1,
+                "premium": false,
+                "title": "Introduction to JavaScript",
+                "imgUrl": "https://images.velog.io/images/azurestefan/post/683ee66b-2287-4ceb-837d-e2c9226252be/JavaScript.png",
+                "videoUrl": "https://www.youtube.com/watch?v=lb7wT1gVU7Y"
+            },
+            {
+                "lesson_id": "6w4tegr941ere9y4er65y46t54",
+                "lesson_no": 2,
+                "premium": false,
+                "title": "JavaScript Output",
+                "imgUrl": "https://images.velog.io/images/azurestefan/post/683ee66b-2287-4ceb-837d-e2c9226252be/JavaScript.png",
+                "videoUrl": "https://www.youtube.com/watch?v=PHy8h0BixKA"
+            },
+            {
+                "lesson_id": "stgayweiurtyiawhtoir389dy66",
+                "lesson_no": 3,
+                "premium": true,
+                "title": "JavaScript Statement",
+                "imgUrl": "https://images.velog.io/images/azurestefan/post/683ee66b-2287-4ceb-837d-e2c9226252be/JavaScript.png",
+                "videoUrl": "https://www.youtube.com/watch?v=vXHefJiJM24"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "price": 89.99,
+        "category_id": "03",
+        "title": "JS Coding PRo",
+        "details": "JavaScript is a programming language that adds interactivity to your website. In this course you will learn about Intermediate level JavaScript (object, array, function)",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqYfbaJ3eCkft5cB1BjSSN8pwLqODTGLTqOXQyIUhvWQSVSPgyG6bI5iH4S3mCVPdIV7w&usqp=CAU",
+        "total_view": 488,
+        "author": {
+            "name": "Jimmy Dane",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "lessons": [
+            {
+                "lesson_id": "sgvfsugtbiuotiuterhtjhgtr",
+                "lesson_no": 1,
+                "premium": false,
+                "title": "Introduction to JavaScript",
+                "imgUrl": "https://images.velog.io/images/azurestefan/post/683ee66b-2287-4ceb-837d-e2c9226252be/JavaScript.png",
+                "videoUrl": "https://www.youtube.com/watch?v=lb7wT1gVU7Y"
+            },
+            {
+                "lesson_id": "yiueyrwiurywoeyrowiwyeruewy",
+                "lesson_no": 2,
+                "premium": true,
+                "title": "JavaScript Output",
+                "imgUrl": "https://images.velog.io/images/azurestefan/post/683ee66b-2287-4ceb-837d-e2c9226252be/JavaScript.png",
+                "videoUrl": "https://www.youtube.com/watch?v=PHy8h0BixKA"
+            },
+            {
+                "lesson_id": "9879879879e7rtyertyeryneryter",
+                "lesson_no": 3,
+                "premium": true,
+                "title": "JavaScript Statement",
+                "imgUrl": "https://images.velog.io/images/azurestefan/post/683ee66b-2287-4ceb-837d-e2c9226252be/JavaScript.png",
+                "videoUrl": "https://www.youtube.com/watch?v=vXHefJiJM24"
+            }
+        ]
+    }
+]
